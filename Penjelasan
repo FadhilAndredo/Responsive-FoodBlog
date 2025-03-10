@@ -1,0 +1,19 @@
+### Peningkatan Desain:  
+1. Tipografi Modern : Menambahkan Google Fonts dengan kombinasi Merriweather untuk judul dan Open Sans untuk teks utama.  
+2. Skema Warna : Membuat palet warna hangat dengan nuansa oranye/amber yang cocok untuk blog bertema kuliner.  
+3. Tata Letak Bergaya Kartu : Mendesain artikel seperti kartu dengan bayangan dan sudut membulat.  
+4. Hierarki Visual : Meningkatkan jarak, ukuran font, dan ketebalan teks untuk keterbacaan yang lebih baik.  
+5. Elemen Tambahan : Menyertakan tanggal, penulis, tag, dan tombol berbagi agar tampilan blog lebih lengkap.  
+
+### Fitur Responsif:  
+1. Menu Mobile : Menambahkan menu hamburger untuk layar kecil.  
+2. Tipografi Responsif : Ukuran font menyesuaikan berdasarkan ukuran layar.  
+3. Tata Letak Fleksibel : Lebar konten dan padding berubah sesuai ukuran layar.  
+4. Header Tetap (Sticky Header) : Navigasi tetap di bagian atas saat menggulir halaman.  
+5. Meta Tag Viewport yang Tepat : Ditambahkan untuk skala tampilan yang sesuai di perangkat mobile.  
+
+### Peningkatan Teknis:  
+1. Variabel CSS : Digunakan untuk memudahkan pengelolaan tema.  
+2. Model Kotak yang Konsisten : Menambahkan reset box-sizing untuk tata letak yang lebih seragam.  
+3. Penambahan Kontainer : Mengontrol lebar agar lebih optimal di berbagai ukuran layar.  
+4. CSS Modern : Menggunakan flexbox untuk tata letak yang lebih fleksibel.
